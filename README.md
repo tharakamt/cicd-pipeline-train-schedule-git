@@ -9,7 +9,7 @@ It is not necessary to run this app locally in order to complete the learning ac
     npm install
 
 Then, you can run the app with:
-
+jujujju
     npm start
 
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
